@@ -1,2 +1,2 @@
 # pinao-keys
-Piano keys
+A frontend simple project to practice interacting with the DOM.
